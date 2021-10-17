@@ -1,7 +1,6 @@
 ### Hello, こんにちは, Xin chào 👋
 - 🧔 I'm a FTUer, switching career from Economics to IT.
-- 🌱 I’m currently learning Java Spring Boot Full Stack Web Dev Course via Techmaster.vn
-- 👯 I’m looking to opportunity on BrSE, BA jobs in Hanoi
+- 🌱 I’m currently working as Java SE at CMC Global Viet Nam
 - 💬 Ask me about java, javascript, japanese
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/martinvu97/)
 
